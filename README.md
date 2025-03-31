@@ -21,7 +21,4 @@ This project analyzes crowdfunding campaign data to uncover insights about campa
 ## Results
 The final report presents insights on crowdfunding success factors, data trends, and statistical summaries. For detailed analysis, refer to the `Crowdfunding Report.docx`.
 
-## Author
-[Your Name]  
-For inquiries, feel free to reach out or contribute to the project!
 
